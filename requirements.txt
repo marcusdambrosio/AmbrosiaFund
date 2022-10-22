@@ -1,0 +1,6 @@
+Flask
+gunicorn
+python-binance
+pytz
+flask_cors
+requests
